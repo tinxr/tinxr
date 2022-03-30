@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tinxr
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python, I'm at an intermediate level
+- 💞️ I’m looking to collaborate on most anything Python related
+- 📫 How to reach me _forthcoming_
